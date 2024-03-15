@@ -1,0 +1,15 @@
+/Users/admin/Desktop/GB1/pilotWork/bin/Debug/net8.0/pilotWork
+/Users/admin/Desktop/GB1/pilotWork/bin/Debug/net8.0/pilotWork.deps.json
+/Users/admin/Desktop/GB1/pilotWork/bin/Debug/net8.0/pilotWork.runtimeconfig.json
+/Users/admin/Desktop/GB1/pilotWork/bin/Debug/net8.0/pilotWork.dll
+/Users/admin/Desktop/GB1/pilotWork/bin/Debug/net8.0/pilotWork.pdb
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.AssemblyInfoInputs.cache
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.AssemblyInfo.cs
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.sourcelink.json
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.dll
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/refint/pilotWork.dll
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.pdb
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/pilotWork.genruntimeconfig.cache
+/Users/admin/Desktop/GB1/pilotWork/obj/Debug/net8.0/ref/pilotWork.dll
